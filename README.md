@@ -1,24 +1,24 @@
 # WebFont: Montserrat
 
-The `webfont-montserrat` package simplifies the process of self-hosting the [Montserrat Font](https://fonts.google.com/specimen/Montserrat) for applications making use of Vanilla CSS or any framework such as Tailwind CSS.
+The `webfont-montserrat` package simplifies self-hosting the [Montserrat Font](https://fonts.google.com/specimen/Montserrat) for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind CSS.
 
 </br>
 
 ## Getting Started
 
-1. Install the package:
+Install the package:
 
 ```bash
 $ npm install -S webfont-montserrat
 ```
 
-2. Import it into your main stylesheet:
+Import it into your main stylesheet:
 
 ```css
 @import url('/node_modules/webfont-montserrat/dist/index.css');
 ```
 
-3. Register it in your application:
+Register it in your application:
 
 ```css
 html {
@@ -32,7 +32,7 @@ html {
 ```
 
 
-3. Alternatively, if you're using Tailwind CSS:
+Alternatively, if you're using Tailwind CSS:
 
 ```css
 @tailwind base;
@@ -60,7 +60,6 @@ html {
 ## Built With
 
 - CSS
-- JavaScript
 
 
 
@@ -81,7 +80,6 @@ html {
 ## Acknowledgments
 
 - [Google Fonts](https://fonts.google.com/specimen/Montserrat)
-- [clean-css](https://github.com/clean-css/clean-css)
 
 
 
