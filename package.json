@@ -1,7 +1,7 @@
 {
   "name": "webfont-montserrat",
   "version": "1.0.0",
-  "description": "The webfont-montserrat package simplifies self-hosting the Montserrat font for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind CSS.",
+  "description": "The webfont-montserrat package simplifies self-hosting the Montserrat font for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.",
   "main": "dist/index.css",
   "style": "dist/index.css",
   "type": "module",

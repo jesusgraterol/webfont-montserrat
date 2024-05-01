@@ -1,6 +1,6 @@
 # WebFont: Montserrat
 
-The `webfont-montserrat` package simplifies self-hosting the [Montserrat Font](https://fonts.google.com/specimen/Montserrat) for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind CSS.
+The `webfont-montserrat` package simplifies self-hosting the [Montserrat Font](https://fonts.google.com/specimen/Montserrat) for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.
 
 </br>
 
