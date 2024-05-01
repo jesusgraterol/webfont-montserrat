@@ -1,0 +1,30 @@
+{
+  "name": "webfont-montserrat",
+  "version": "1.0.0",
+  "description": "The webfont-montserrat package simplifies the process of self-hosting the Montserrat Font for applications making use of Vanilla CSS or any framework such as Tailwind CSS.",
+  "main": "dist/index.css",
+  "style": "dist/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusgraterol/webfont-montserrat.git"
+  },
+  "keywords": [
+    "Font",
+    "Google",
+    "Fonts",
+    "Montserrat",
+    "Web",
+    "Sans",
+    "Sans Serif",
+    "sans-serif"
+  ],
+  "author": "Jesus Graterol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusgraterol/webfont-montserrat/issues"
+  },
+  "homepage": "https://github.com/jesusgraterol/webfont-montserrat#readme"
+}
