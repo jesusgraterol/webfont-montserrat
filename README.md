@@ -9,7 +9,7 @@ The `webfont-montserrat` package simplifies self-hosting the [Montserrat Font](h
 Install the package:
 
 ```bash
-$ npm install -S webfont-montserrat
+npm install -S webfont-montserrat
 ```
 
 Import it into your main stylesheet:
@@ -89,17 +89,17 @@ Alternatively, if you're using Tailwind CSS:
 
 ## Deployment
 
-1. Install dependencies:
+Install dependencies:
 ```bash
-$ npm install
+npm install
 ```
 
-2. Build the package:
+Build the package:
 ```bash
-$ npm start
+npm start
 ```
 
-3. Publish to `npm`:
+Publish to `npm`:
 ```bash
-$ npm publish
+npm publish
 ```
