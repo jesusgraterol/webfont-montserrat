@@ -9,13 +9,13 @@ The `webfont-montserrat` package simplifies self-hosting the [Montserrat Font](h
 Install the package:
 
 ```bash
-npm install -S webfont-montserrat
+npm i -S webfont-montserrat
 ```
 
 Import it into your main stylesheet:
 
 ```css
-@import url('/node_modules/webfont-montserrat/dist/index.css');
+@import url("/node_modules/webfont-montserrat/dist/index.css");
 ```
 
 Register it in your application:
@@ -27,10 +27,9 @@ html {
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  ...
+  ...;
 }
 ```
-
 
 Alternatively, if you're using Tailwind CSS:
 
@@ -46,14 +45,10 @@ Alternatively, if you're using Tailwind CSS:
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    ...
+    ...;
   }
 }
 ```
-
-
-
-
 
 <br/>
 
@@ -61,45 +56,14 @@ Alternatively, if you're using Tailwind CSS:
 
 - CSS
 
-
-
-
-
 <br/>
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-
-
-
 <br/>
 
 ## Acknowledgments
 
 - [Google Fonts](https://fonts.google.com/specimen/Montserrat)
-
-
-
-
-
-<br/>
-
-## Deployment
-
-Install dependencies:
-```bash
-npm install
-```
-
-Build the package:
-```bash
-npm start
-```
-
-Publish to `npm`:
-```bash
-npm publish
-```
